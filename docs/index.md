@@ -1,5 +1,8 @@
 # チーム「Radiant」
 
+<img src="./img/sam01.png" alt="TAMAMODACORE">
+<br>
+
 ### Radiantについて
 Final Fantasy XIV内の周回遅れレイド攻略チームです。
 
