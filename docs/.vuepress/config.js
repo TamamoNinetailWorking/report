@@ -6,7 +6,9 @@ module.exports =
         sidebar:
         [
             "/",
-            "/article1",
+            "/reportMD/Report03",
+            "/reportMD/Report01",
+            "/reportMD/Report02",
         ],
     },
 };
